@@ -8,4 +8,4 @@ I hope, some of my projects will be useful for you
 
 ### Connect with me:
 
-[<img align="left" alt="nikitanos0v | Telegram" width="22px" style="background-color: blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/nikitanos0v)
+[<img align="left" alt="nikitanos0v | Telegram" width="22px" style="background-color: blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/nikinos0v)
